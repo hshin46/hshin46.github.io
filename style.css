@@ -1,0 +1,132 @@
+body {
+      font-family: "Arial Narrow", sans-serif; /* Sets Verdana, with Geneva and sans-serif as fallbacks */
+    background-image: url("crossesx.png");
+  align-content: center;
+  margin: 10px;
+  background-color: #FDF7FA;
+  background-position: 100px 200px;
+}
+
+
+.logo {
+      max-width: 20%;
+      height: auto;
+      display: inline;
+      padding: 10px;
+    }
+
+.icon {
+  height: 120px;
+  float: right;
+  padding: 10px;
+}
+
+#menu {
+  text-align: center;
+  font-size: medium;
+  font-weight: bold;
+  a:link{
+    color: hotpink
+  }
+  a:hover{
+    color: deepskyblue}
+  }
+}
+
+.trendslist {
+  padding: 150px;
+  text-align: center;
+}
+
+h1 {
+    color: #FF5BBE;
+}
+.title1 {
+    text-align: center;
+}
+
+.text{
+  text-align: center;
+  padding: 10px;
+  color: navy;
+}
+
+
+h2 {
+  text-align: center;
+  font-size: 2em;
+  color: #FF5BBE;
+}
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  border-color: skyblue;
+  border-width: 2px;
+  border-style: dotted;
+  color: navy;
+}
+
+.section {
+  padding:40px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th, td {
+  padding: 20px;
+  border-color: skyblue;
+  border-width: 2px;
+  border-style: dotted;
+  border-collapse: collapse;
+}
+
+#guide{
+  text-align: left;
+  color: hotpink;
+  padding: 40px;
+  margin-left: 200px;
+  margin-right: 200px;
+  font-weight: bold;
+  background-color: aliceblue;
+  border-color: navy;
+  border-style: dotted;
+}
+
+.picmenu{
+  padding: 20px;
+  margin-left: 100px;
+  margin-right: auto;
+}
+
+.linkicons{
+  padding: 19px;
+  margin-left:100px;
+  margin-right:100px;
+}
+
+.numbers{
+  width: 200px;
+  padding: 50px;
+}
+
+#aboutus {
+  color: hotpink;
+}
+span{
+  color: navy;
+}
+
+#AboutMe{
+  padding: 40px;
+  background-color: aliceblue;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+#Links{
+  color: navy;
+}
+
